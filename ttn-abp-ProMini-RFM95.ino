@@ -30,6 +30,8 @@
  * arduino-lmic/project_config/lmic_project_config.h or from your BOARDS.txt.
  *
  *******************************************************************************/
+ 
+ /* Not Working at the moment */
 
  // References:
  // [feather] adafruit-feather-m0-radio-with-lora-module.pdf
